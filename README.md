@@ -1,5 +1,12 @@
 # Marriversary
-This project 
+This project develops and prices an innovative insurance product that protects against divorce risk.
+
+Characteristics of the project:
+- Attempt to offer protection against a new risk -- Divorce risk
+- Product design based on expected customers' need and legal environment
+- Assumptions based on Hong Kong and Singapore census data
+- Multi-state acturaial cashflow model
+
 
 ## Documents links
 
