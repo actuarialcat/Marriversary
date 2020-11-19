@@ -6,7 +6,7 @@ Highlight of the project:
 - Product design based on expected customers' need and legal environment
 - Assumptions based on Hong Kong and Singapore census data
 - Multi-state actuarial cash flow / pricing model
-- Sensivity test and financial anaylsis
+- Sensivity test and profitability anaylsis
 
 
 ## Documents links
